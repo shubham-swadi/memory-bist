@@ -123,3 +123,14 @@ Xilinx Vivado
 
 The above are the simulation results for the controller module. Clk, reset, bist_en are input signals, go_bist, test_pattern_gen_en, test_address_gen_en etc are the output signals and cs and i are status signals to track the algorithm. It takes a total of **317** cycles to complete the one bist test.
 
+## Project Mentor
+
+[Mr. Kapil Bajaj](https://www.linkedin.com/in/kapil-bajaj-a2a4944)
+
+## Project Members
+
+[Omkar Patil](https://www.linkedin.com/in/omkar-patil-306312227)  
+[Shubham Kiran Swadi](www.linkedin.com/in/shubham-swadi)  
+[Arpitha Battu](https://www.linkedin.com/in/arpithabattu)  
+[Harshak Sachdeva](https://www.linkedin.com/in/harshak-sachdeva-b910b611a)
+
