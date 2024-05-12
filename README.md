@@ -115,11 +115,13 @@ Xilinx Vivado
 
 ### Block Diagram
 
-<img>
+![WhatsApp Image 2024-04-15 at 14 47 33_57ac3dea](https://github.com/shubham-swadi/memory-bist/assets/122473812/0fbb86a1-9386-483f-8d08-a303987fbaf8)
+
 
 ### Simulation results
 
-<img>
+![image](https://github.com/shubham-swadi/memory-bist/assets/122473812/5d1c8dc2-1a58-480c-b56a-5512b3f0f871)
+
 
 The above are the simulation results for the controller module. Clk, reset, bist_en are input signals, go_bist, test_pattern_gen_en, test_address_gen_en etc are the output signals and cs and i are status signals to track the algorithm. It takes a total of **317** cycles to complete the one bist test.
 
