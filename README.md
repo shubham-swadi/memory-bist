@@ -64,10 +64,12 @@ According to this definition an algorithm consists of a definite number of steps
 There exist a lot of algorithms for the purpose of testing memory. One such family of memory testing algorithms is MARCH. MARCH stands for  Marching, Addressing, Row Address Strobe, Column Address Strobe and Halt.
 
 The notation followed by MARCH algorithms is given below:
-<img>
+![image](https://github.com/shubham-swadi/memory-bist/assets/122473812/c9fd21d2-16f1-4e88-91d1-9b625fa562be)
+
 
 The following are the different algorithms in the MARCH family:
-<img>
+![image](https://github.com/shubham-swadi/memory-bist/assets/122473812/bcedf415-dde7-4b29-9415-70c3a7d6e598)
+
 
 MARCH Y is one such simple algorithm belonging to the MARCH family. It is able to detect all Stuck-at faults, Transition faults, Coupling faults and Address Decoder faults.
 
